@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **in Soy Henry**
 
-- 👨‍💻 All of my projects are available at [https://master--risettifederico.netlify.app/](https://master--risettifederico.netlify.app/)
+- 👨‍💻 All of my projects are available at [Federico Risetti | Developer](https://master--risettifederico.netlify.app/)
 
 - 📫 How to reach me **risettifederico.dev@gmail.com**
 
