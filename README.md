@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Federico Risetti</h1>
-<h3 align="center">A passionate Full Stack Dev from Argentina. I am interested in Front-End and UX/UI design.</h3>
+<h3 align="center">A passionate developer. Specialized in front end and UX design.</h3>
 
-- 🔭 I’m currently working on **personal projects and Frontend freelance**
+- 🔭 I’m currently working on **React Native app**
 
 - 🌱 I’m currently learning **in Soy Henry and OpenBootcamp**
 
 - 👨‍💻 All of my projects are available at [Federico Risetti | Developer](https://master--risettifederico.netlify.app/)
 
-- 💬 Ask me about **JS, React, Redux, Node and Figma**
+- 💬 Ask me about **React, React Native, Node and Figma**
 
 - 📫 How to reach me **risettifederico.dev@gmail.com**
 
