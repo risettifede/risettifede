@@ -11,8 +11,8 @@
 
 Si te ha interesado mi perfil, hablemos:
 
-- [LinkedIn](https://www.linkedin.com/in/federico-risetti-507567196/)
-- [Email](mailto:risettifederico.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/federico-risetti-507567196/) 👨‍💻
+- [Email](mailto:risettifederico.dev@gmail.com) 📬
 
 
 ¡Gracias por visitar mi GitHub! 👋
