@@ -1,7 +1,7 @@
 
 # Bienvenidos a mi GitHub
 
-¡Hola! Soy Fede, apasionado developer front end y UX designer. Actualmente trabajo con React Native desarrollando screens en la parte del broker de la app EmptyLeg. 
+¡Hola! Soy Fede, apasionado developer front end y UX/UI designer. Actualmente trabajo con React Native desarrollando screens en la parte del broker de la app EmptyLeg. 
 
 ## Experiencia en tecnologías
 
